@@ -1,0 +1,16 @@
+main {
+    background-color: #f3f2f0;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+}
+.box1 {
+    background-color: #eae6e3;
+    margin: 300px 750px 300px 750px;
+    padding: 20px;
+}
+p{
+    font-size: 15px;
+}
