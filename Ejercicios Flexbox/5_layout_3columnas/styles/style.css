@@ -11,16 +11,16 @@ main {
 }
 .navegacion {
     background-color: #bbbbbb;
-    width: 25%;
+    width: 25vh;
     padding: 0 0 0 10px;
 }
 .articulo {
     background-color: #aaaaaa;
-    width: 50%;
+    width: 50vh;
 }
 .columna {
     background-color: #cccccc;
-    width: 25%;
+    width: 25vh;
     padding: 0 0 0 10px;
 }
 footer {
