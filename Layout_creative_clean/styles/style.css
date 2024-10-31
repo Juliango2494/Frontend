@@ -1,0 +1,81 @@
+body{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+header{
+    background: url(../assets/images/bgHeader.png) no-repeat;
+    height:788px;
+    width: 1400px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+main{
+    width: 1400px;
+}
+h1{
+    color: #ff8940;
+    font-size: 90px;
+}
+h2{
+    color: #ff8940;
+    font-size: 40px; 
+}
+p{
+    font-size: 23px;
+}
+.botonView {
+    display: flex;
+    background-color: #ff8e45;
+    align-items: center;
+    justify-content: center;
+    padding: 0 5px 0 5px;
+    color: white;
+    gap: 10px;
+    width: 120px;
+    border-radius: 35px;
+    font-size: 15px;
+    font-weight: bold;
+    margin-top: 50px;
+}
+.botonCheck {
+    display: flex;
+    background-color: #ff8e45;
+    align-items: center;
+    justify-content: center;
+    padding: 0 5px 0 5px;
+    color: white;
+    gap: 10px;
+    width: 190px;
+    border-radius: 35px;
+    font-size: 15px;
+    font-weight: bold;
+    margin-top: 50px;
+}
+.headerText{
+    font-size: 35px;
+    margin-top: -40px;
+    margin-bottom: 150px;
+}
+.section1{
+    display: flex;
+    padding: 150px 150px 0 150px;
+    gap: 170px;
+}
+.section2{
+    display: flex;
+    padding: 150px 100px 0 150px;
+    gap: 280px;
+}
+.down{
+    background: url(../assets/images/bgDown.png) no-repeat;
+    width: 1400px;
+    height: 578px;
+    display: flex;
+    flex-direction: column;
+}
+.intDown{
+    margin: 50px 0 50px 150px;
+    width: 550px;
+}
